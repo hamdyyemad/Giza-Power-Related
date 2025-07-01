@@ -2,8 +2,6 @@
 
 *A secure, scalable payroll solution built with ASP.NET MVC*
 
-![App Screenshot](/screenshots/dashboard.png)
-
 ## 📌 Overview
 This repository contains UI/UX references and documentation for the internal Payroll Management System. The app streamlines payroll processing, employee data management, and reporting using:
 - ASP.NET MVC
@@ -18,10 +16,9 @@ This repository contains UI/UX references and documentation for the internal Pay
 ### Key Features
 | Section          | Description                          | Example Image              |
 |------------------|--------------------------------------|----------------------------|
-| **Login**        | Role-based access control            | `/screenshots/1-auth/login.png` |
-| **Dashboard**    | Payroll overview and analytics       | `/screenshots/2-admin/dashboard.png` |
-| **Payroll**      | Salary calculation and processing    | `/screenshots/3-payroll/processing.png` |
-| **Reports**      | Exportable payroll statements        | `/screenshots/4-reports/payslip.png` |
+| **Login**        | Role-based access control            | `/screenshots/1-auth/login-large.png` |
+| **Employee**     | Payroll overview and analytics       | `/screenshots/2-employee/employee-dashboard-large-1.png` |
+| **Vacation**     | Employee vacation's requests         | `/screenshots/3-employee-vacation/employee-vacation-large.png` |
 
 ## 🛠️ Technical Overview
 - **Framework**: ASP.NET MVC [Core/Framework]
