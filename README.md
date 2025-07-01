@@ -34,10 +34,10 @@ This repository contains UI/UX references and documentation for the internal Pay
 
 ## 📧 Contact the Team
 For more information:
-- Hamdy Emad: Front-end Web Developer
+- Hamdy Emad: Full Stack Web Developer
 - hamdyyemad@aol.com
 
-- Aya Mahmoud: Back-end Web Developer
+- Aya Mahmoud: Full Stack Web Developer
 - ayamahmoudzaki421@gmail.com
 
 ---
