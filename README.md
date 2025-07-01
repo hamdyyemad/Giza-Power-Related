@@ -32,17 +32,7 @@ This repository contains UI/UX references and documentation for the internal Pay
 ## 📄 Documentation: A sample of the docs: [API Docs](https://github.com/hamdyyemad/api-docs-site "Visit API Documentation")
 - [Feature List](/docs/features.md)
 
-## 📧 Contact the Team
-For more information:
-- Hamdy Emad: Full Stack Web Developer
-- hamdyyemad@aol.com
-
-- Aya Mahmoud: Full Stack Web Developer
-- ayamahmoudzaki421@gmail.com
-
----
-
-*Last updated: {May} {2025}*
+*Last updated: {July} {2025}*
 
 
 
